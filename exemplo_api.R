@@ -17,5 +17,5 @@ function() {
 #* @param b O segundo número
 #* @post /sum
 function(a, b){
-  as.numeric(a) + as.numeric(b)
+  2*as.numeric(a) + as.numeric(b)
 }
